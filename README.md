@@ -34,3 +34,30 @@ Berikut adalah tampilan dari coding diatas :
 ![3 - Tampilan Description List](https://user-images.githubusercontent.com/73066008/160590869-d16c96db-4928-469c-bae9-06e1f0fd15f0.png)
 ----------
 # 4. Membuat Tabel
+Tambahkan kode untuk membuat table sebagai berikut :
+----------
+![4 - Membuat Table](https://user-images.githubusercontent.com/73066008/160661118-69ae9742-97e2-4785-ba73-77f5b0cc343c.png)
+----------
+Berikut adalah tampilan dari coding diatas :
+----------
+![4 - Tampilan Table](https://user-images.githubusercontent.com/73066008/160661162-bb37b1bd-7137-455c-a045-9a33a6b7c96d.png)
+----------
+# 5. Mengatur Margin dan Padding
+Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table sebagai berikut :
+----------
+![5 - Mengatur Margin dan Padding](https://user-images.githubusercontent.com/73066008/160669279-e32a3400-35c2-4935-987a-6c0ad6c19cb6.png)
+----------
+Berikut adalah tampilan dari coding diatas :
+----------
+![5 - Tampilan Margin dan Padding setelah diatur](https://user-images.githubusercontent.com/73066008/160669322-3fbd8cf3-3d3d-4f11-8f8a-1be2978292fe.png)
+----------
+# 6. Menggabungkan Sel Data
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal) sebagai berikut :
+----------
+![6 - Menggabungkan Sel Data](https://user-images.githubusercontent.com/73066008/160669349-ad8acc05-fe90-43e5-9c50-5c8d60cf50ce.png)
+----------
+Berikut adalah tampilan dari coding diatas :
+----------
+![6 - Tampilan Penggabungan Sel Data](https://user-images.githubusercontent.com/73066008/160669399-b2066d21-3210-4fc8-9da4-f4b99b328913.png)
+----------
+# 7.
