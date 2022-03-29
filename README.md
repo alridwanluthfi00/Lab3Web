@@ -23,3 +23,14 @@ section unordered-list, seperti berikut :
 Berikut adalah tampilan dari coding diatas :
 ----------
 ![2 - Tampilan Unordered List](https://user-images.githubusercontent.com/73066008/160587398-cfdcb3bf-f2f6-477a-82a6-fd71e0f07d4d.png)
+----------
+# 3. Membuat Description List
+Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list :
+----------
+![3 - Membuat Description List](https://user-images.githubusercontent.com/73066008/160590833-dc25dedc-ba44-4c74-a8a5-bd924e066174.png)
+----------
+Berikut adalah tampilan dari coding diatas :
+----------
+![3 - Tampilan Description List](https://user-images.githubusercontent.com/73066008/160590869-d16c96db-4928-469c-bae9-06e1f0fd15f0.png)
+----------
+# 4. Membuat Tabel
