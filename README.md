@@ -77,5 +77,6 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut :
 ![8 - Menambahkan Style pada Form](https://user-images.githubusercontent.com/73066008/160742351-7cd7ef00-eb38-43d9-9e95-6189aeb523fb.png)
 ----------
 Berikut adalah hasil setelah ditambahkan style pada form :
+----------
 ![8 - Tampilan Style Form](https://user-images.githubusercontent.com/73066008/160742368-0c4e8ab9-9a84-47a5-855d-1ceb93c4fd5d.png)
 ----------
