@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Lanjutan</title>
+    <style>
+      form p > label {
+        display: inline-block;
+        width: auto;
+      }
+      form input[type='text'],
+      form textarea,
+      form select {
+        border: 1px solid #197a43;
+      }
+      form input[type='submit'] {
+        border: 1px solid #197a43;
+        background-color: #197a43;
+        color: #ffffff;
+        font-weight: bold;
+        padding: 5px 15px;
+      }
+    </style>
+  </head>
+  <body style="background-color: #a9a9a9">
+    <header>
+      <h1>Membuat Form</h1>
+      <form action="proses.php" method="post">
+        <fieldset>
+          <legend>Data Mahasiswa</legend>
+          <p>
+            <label for="nama">Nama :</label>
+            <input type="text" id="nama" name="nama" />
+          </p>
+          <p>
+            <label for="alamat">Alamat :</label>
+            <textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
+          </p>
+          <p>
+            <label>Jenis Kelamin :</label>
+            <input id="jk_l" type="radio" name="kelamin" value="L" /><label for="jk_l">Laki-laki</label> <input id="jk_p" type="radio" name="kelamin" value="P" /><label for="jk_p">Perempuan</label>
+          </p>
+          <p>
+            <label>Program Studi :</label>
+            <select name="prodi" class="form-control" required>
+              <option value="">--Pilih Program Studi--</option>
+              <option value="Teknik Informatika">Teknik Informatika</option>
+              <option value="Teknik Sipil">Teknik Sipil</option>
+              <option value="Teknik Mesin">Teknik Mesin</option>
+              <option value="Hukum">Hukum</option>
+              <option value="Manajemen">Manajemen</option>
+              <option value="Matematika">Matematika</option>
+            </select>
+          </p>
+          <p>
+            <label>Pilih mata kuliah yang ingin diambil :</label>
+            <br />
+            <input type="checkbox" value="Struktur Data" /> Struktur Data<br />
+            <input type="checkbox" value="Web Design" /> Pemrograman Web <br />
+            <input type="checkbox" value="PKN" /> PKN <br />
+            <input type="checkbox" value="Bahasa Inggris" /> Bahasa Inggris<br />
+            <input type="checkbox" value="Rekayasa Perangkat Lunak" /> Rekayasa Perangkat Lunak<br />
+            <input type="checkbox" value="Analisa Sistem" /> Analisa Sistem<br />
+            <input type="checkbox" value="Statistika" /> Statistika<br />
+            <input type="checkbox" value="Pendidikan Agama" /> Pendidikan Agama<br />
+            <input type="checkbox" value="Logika Informatika" /> Logika Informatika<br />
+          </p>
+          <p><input type="submit" value="Simpan" /></p>
+        </fieldset>
+      </form>
+    </header>
+  </body>
+</html>
