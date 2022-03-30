@@ -60,4 +60,22 @@ Berikut adalah tampilan dari coding diatas :
 ----------
 ![6 - Tampilan Penggabungan Sel Data](https://user-images.githubusercontent.com/73066008/160669399-b2066d21-3210-4fc8-9da4-f4b99b328913.png)
 ----------
-# 7.
+# 7. Membuat Form
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut :
+----------
+![7 - ( 1 ) Membuat Form](https://user-images.githubusercontent.com/73066008/160739538-b0b3d121-4b84-46f0-b1dc-f107f9776521.png)
+----------
+![7 - Membuat Form + Dropdown   Listbox](https://user-images.githubusercontent.com/73066008/160739638-57c7f97c-4af1-4b2a-b956-07da526687ea.png)
+----------
+Berikut adalah tampilan dari coding diatas :
+----------
+![7 - Tampilan Form](https://user-images.githubusercontent.com/73066008/160739665-01d99b4c-353a-4923-8a3c-15709b986665.png)
+----------
+# 8. Menambahkan Style pada Form
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut :
+----------
+![8 - Menambahkan Style pada Form](https://user-images.githubusercontent.com/73066008/160742351-7cd7ef00-eb38-43d9-9e95-6189aeb523fb.png)
+----------
+Berikut adalah hasil setelah ditambahkan style pada form :
+![8 - Tampilan Style Form](https://user-images.githubusercontent.com/73066008/160742368-0c4e8ab9-9a84-47a5-855d-1ceb93c4fd5d.png)
+----------
